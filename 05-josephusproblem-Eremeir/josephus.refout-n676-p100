@@ -1,0 +1,247 @@
+Initial group of people
+-----------------------
+AA, AB, AC, AD, AE, AF, AG, AH, AI, AJ, AK, AL
+AM, AN, AO, AP, AQ, AR, AS, AT, AU, AV, AW, AX
+AY, AZ, BA, BB, BC, BD, BE, BF, BG, BH, BI, BJ
+BK, BL, BM, BN, BO, BP, BQ, BR, BS, BT, BU, BV
+BW, BX, BY, BZ, CA, CB, CC, CD, CE, CF, CG, CH
+CI, CJ, CK, CL, CM, CN, CO, CP, CQ, CR, CS, CT
+CU, CV, CW, CX, CY, CZ, DA, DB, DC, DD, DE, DF
+DG, DH, DI, DJ, DK, DL, DM, DN, DO, DP, DQ, DR
+DS, DT, DU, DV, DW, DX, DY, DZ, EA, EB, EC, ED
+EE, EF, EG, EH, EI, EJ, EK, EL, EM, EN, EO, EP
+EQ, ER, ES, ET, EU, EV, EW, EX, EY, EZ, FA, FB
+FC, FD, FE, FF, FG, FH, FI, FJ, FK, FL, FM, FN
+FO, FP, FQ, FR, FS, FT, FU, FV, FW, FX, FY, FZ
+GA, GB, GC, GD, GE, GF, GG, GH, GI, GJ, GK, GL
+GM, GN, GO, GP, GQ, GR, GS, GT, GU, GV, GW, GX
+GY, GZ, HA, HB, HC, HD, HE, HF, HG, HH, HI, HJ
+HK, HL, HM, HN, HO, HP, HQ, HR, HS, HT, HU, HV
+HW, HX, HY, HZ, IA, IB, IC, ID, IE, IF, IG, IH
+II, IJ, IK, IL, IM, IN, IO, IP, IQ, IR, IS, IT
+IU, IV, IW, IX, IY, IZ, JA, JB, JC, JD, JE, JF
+JG, JH, JI, JJ, JK, JL, JM, JN, JO, JP, JQ, JR
+JS, JT, JU, JV, JW, JX, JY, JZ, KA, KB, KC, KD
+KE, KF, KG, KH, KI, KJ, KK, KL, KM, KN, KO, KP
+KQ, KR, KS, KT, KU, KV, KW, KX, KY, KZ, LA, LB
+LC, LD, LE, LF, LG, LH, LI, LJ, LK, LL, LM, LN
+LO, LP, LQ, LR, LS, LT, LU, LV, LW, LX, LY, LZ
+MA, MB, MC, MD, ME, MF, MG, MH, MI, MJ, MK, ML
+MM, MN, MO, MP, MQ, MR, MS, MT, MU, MV, MW, MX
+MY, MZ, NA, NB, NC, ND, NE, NF, NG, NH, NI, NJ
+NK, NL, NM, NN, NO, NP, NQ, NR, NS, NT, NU, NV
+NW, NX, NY, NZ, OA, OB, OC, OD, OE, OF, OG, OH
+OI, OJ, OK, OL, OM, ON, OO, OP, OQ, OR, OS, OT
+OU, OV, OW, OX, OY, OZ, PA, PB, PC, PD, PE, PF
+PG, PH, PI, PJ, PK, PL, PM, PN, PO, PP, PQ, PR
+PS, PT, PU, PV, PW, PX, PY, PZ, QA, QB, QC, QD
+QE, QF, QG, QH, QI, QJ, QK, QL, QM, QN, QO, QP
+QQ, QR, QS, QT, QU, QV, QW, QX, QY, QZ, RA, RB
+RC, RD, RE, RF, RG, RH, RI, RJ, RK, RL, RM, RN
+RO, RP, RQ, RR, RS, RT, RU, RV, RW, RX, RY, RZ
+SA, SB, SC, SD, SE, SF, SG, SH, SI, SJ, SK, SL
+SM, SN, SO, SP, SQ, SR, SS, ST, SU, SV, SW, SX
+SY, SZ, TA, TB, TC, TD, TE, TF, TG, TH, TI, TJ
+TK, TL, TM, TN, TO, TP, TQ, TR, TS, TT, TU, TV
+TW, TX, TY, TZ, UA, UB, UC, UD, UE, UF, UG, UH
+UI, UJ, UK, UL, UM, UN, UO, UP, UQ, UR, US, UT
+UU, UV, UW, UX, UY, UZ, VA, VB, VC, VD, VE, VF
+VG, VH, VI, VJ, VK, VL, VM, VN, VO, VP, VQ, VR
+VS, VT, VU, VV, VW, VX, VY, VZ, WA, WB, WC, WD
+WE, WF, WG, WH, WI, WJ, WK, WL, WM, WN, WO, WP
+WQ, WR, WS, WT, WU, WV, WW, WX, WY, WZ, XA, XB
+XC, XD, XE, XF, XG, XH, XI, XJ, XK, XL, XM, XN
+XO, XP, XQ, XR, XS, XT, XU, XV, XW, XX, XY, XZ
+YA, YB, YC, YD, YE, YF, YG, YH, YI, YJ, YK, YL
+YM, YN, YO, YP, YQ, YR, YS, YT, YU, YV, YW, YX
+YY, YZ, ZA, ZB, ZC, ZD, ZE, ZF, ZG, ZH, ZI, ZJ
+ZK, ZL, ZM, ZN, ZO, ZP, ZQ, ZR, ZS, ZT, ZU, ZV
+ZW, ZX, ZY, ZZ
+
+After eliminating 100 people
+----------------------------
+AA, AB, AD, AE, AG, AH, AJ, AK, AM, AN, AP, AQ
+AS, AT, AV, AW, AY, AZ, BB, BC, BE, BF, BH, BI
+BK, BL, BN, BO, BQ, BR, BT, BU, BW, BX, BZ, CA
+CC, CD, CF, CG, CI, CJ, CL, CM, CO, CP, CR, CS
+CU, CV, CX, CY, DA, DB, DD, DE, DG, DH, DJ, DK
+DM, DN, DP, DQ, DS, DT, DV, DW, DY, DZ, EB, EC
+EE, EF, EH, EI, EK, EL, EN, EO, EQ, ER, ET, EU
+EW, EX, EZ, FA, FC, FD, FF, FG, FI, FJ, FL, FM
+FO, FP, FR, FS, FU, FV, FX, FY, GA, GB, GD, GE
+GG, GH, GJ, GK, GM, GN, GP, GQ, GS, GT, GV, GW
+GY, GZ, HB, HC, HE, HF, HH, HI, HK, HL, HN, HO
+HQ, HR, HT, HU, HW, HX, HZ, IA, IC, ID, IF, IG
+II, IJ, IL, IM, IO, IP, IR, IS, IU, IV, IX, IY
+JA, JB, JD, JE, JG, JH, JJ, JK, JM, JN, JP, JQ
+JS, JT, JV, JW, JY, JZ, KB, KC, KE, KF, KH, KI
+KK, KL, KN, KO, KQ, KR, KT, KU, KW, KX, KZ, LA
+LC, LD, LF, LG, LI, LJ, LL, LM, LO, LP, LQ, LR
+LS, LT, LU, LV, LW, LX, LY, LZ, MA, MB, MC, MD
+ME, MF, MG, MH, MI, MJ, MK, ML, MM, MN, MO, MP
+MQ, MR, MS, MT, MU, MV, MW, MX, MY, MZ, NA, NB
+NC, ND, NE, NF, NG, NH, NI, NJ, NK, NL, NM, NN
+NO, NP, NQ, NR, NS, NT, NU, NV, NW, NX, NY, NZ
+OA, OB, OC, OD, OE, OF, OG, OH, OI, OJ, OK, OL
+OM, ON, OO, OP, OQ, OR, OS, OT, OU, OV, OW, OX
+OY, OZ, PA, PB, PC, PD, PE, PF, PG, PH, PI, PJ
+PK, PL, PM, PN, PO, PP, PQ, PR, PS, PT, PU, PV
+PW, PX, PY, PZ, QA, QB, QC, QD, QE, QF, QG, QH
+QI, QJ, QK, QL, QM, QN, QO, QP, QQ, QR, QS, QT
+QU, QV, QW, QX, QY, QZ, RA, RB, RC, RD, RE, RF
+RG, RH, RI, RJ, RK, RL, RM, RN, RO, RP, RQ, RR
+RS, RT, RU, RV, RW, RX, RY, RZ, SA, SB, SC, SD
+SE, SF, SG, SH, SI, SJ, SK, SL, SM, SN, SO, SP
+SQ, SR, SS, ST, SU, SV, SW, SX, SY, SZ, TA, TB
+TC, TD, TE, TF, TG, TH, TI, TJ, TK, TL, TM, TN
+TO, TP, TQ, TR, TS, TT, TU, TV, TW, TX, TY, TZ
+UA, UB, UC, UD, UE, UF, UG, UH, UI, UJ, UK, UL
+UM, UN, UO, UP, UQ, UR, US, UT, UU, UV, UW, UX
+UY, UZ, VA, VB, VC, VD, VE, VF, VG, VH, VI, VJ
+VK, VL, VM, VN, VO, VP, VQ, VR, VS, VT, VU, VV
+VW, VX, VY, VZ, WA, WB, WC, WD, WE, WF, WG, WH
+WI, WJ, WK, WL, WM, WN, WO, WP, WQ, WR, WS, WT
+WU, WV, WW, WX, WY, WZ, XA, XB, XC, XD, XE, XF
+XG, XH, XI, XJ, XK, XL, XM, XN, XO, XP, XQ, XR
+XS, XT, XU, XV, XW, XX, XY, XZ, YA, YB, YC, YD
+YE, YF, YG, YH, YI, YJ, YK, YL, YM, YN, YO, YP
+YQ, YR, YS, YT, YU, YV, YW, YX, YY, YZ, ZA, ZB
+ZC, ZD, ZE, ZF, ZG, ZH, ZI, ZJ, ZK, ZL, ZM, ZN
+ZO, ZP, ZQ, ZR, ZS, ZT, ZU, ZV, ZW, ZX, ZY, ZZ
+
+After eliminating 200 people
+----------------------------
+AA, AB, AD, AE, AG, AH, AJ, AK, AM, AN, AP, AQ
+AS, AT, AV, AW, AY, AZ, BB, BC, BE, BF, BH, BI
+BK, BL, BN, BO, BQ, BR, BT, BU, BW, BX, BZ, CA
+CC, CD, CF, CG, CI, CJ, CL, CM, CO, CP, CR, CS
+CU, CV, CX, CY, DA, DB, DD, DE, DG, DH, DJ, DK
+DM, DN, DP, DQ, DS, DT, DV, DW, DY, DZ, EB, EC
+EE, EF, EH, EI, EK, EL, EN, EO, EQ, ER, ET, EU
+EW, EX, EZ, FA, FC, FD, FF, FG, FI, FJ, FL, FM
+FO, FP, FR, FS, FU, FV, FX, FY, GA, GB, GD, GE
+GG, GH, GJ, GK, GM, GN, GP, GQ, GS, GT, GV, GW
+GY, GZ, HB, HC, HE, HF, HH, HI, HK, HL, HN, HO
+HQ, HR, HT, HU, HW, HX, HZ, IA, IC, ID, IF, IG
+II, IJ, IL, IM, IO, IP, IR, IS, IU, IV, IX, IY
+JA, JB, JD, JE, JG, JH, JJ, JK, JM, JN, JP, JQ
+JS, JT, JV, JW, JY, JZ, KB, KC, KE, KF, KH, KI
+KK, KL, KN, KO, KQ, KR, KT, KU, KW, KX, KZ, LA
+LC, LD, LF, LG, LI, LJ, LL, LM, LO, LP, LR, LS
+LU, LV, LX, LY, MA, MB, MD, ME, MG, MH, MJ, MK
+MM, MN, MP, MQ, MS, MT, MV, MW, MY, MZ, NB, NC
+NE, NF, NH, NI, NK, NL, NN, NO, NQ, NR, NT, NU
+NW, NX, NZ, OA, OC, OD, OF, OG, OI, OJ, OL, OM
+OO, OP, OR, OS, OU, OV, OX, OY, PA, PB, PD, PE
+PG, PH, PJ, PK, PM, PN, PP, PQ, PS, PT, PV, PW
+PY, PZ, QB, QC, QE, QF, QH, QI, QK, QL, QN, QO
+QQ, QR, QT, QU, QW, QX, QZ, RA, RC, RD, RF, RG
+RI, RJ, RL, RM, RO, RP, RR, RS, RU, RV, RX, RY
+SA, SB, SD, SE, SG, SH, SJ, SK, SM, SN, SP, SQ
+SS, ST, SV, SW, SY, SZ, TB, TC, TE, TF, TH, TI
+TK, TL, TN, TO, TQ, TR, TT, TU, TW, TX, TZ, UA
+UC, UD, UF, UG, UI, UJ, UL, UM, UO, UP, UR, US
+UU, UV, UX, UY, VA, VB, VD, VE, VG, VH, VJ, VK
+VM, VN, VP, VQ, VS, VT, VV, VW, VY, VZ, WB, WC
+WE, WF, WH, WI, WK, WL, WN, WO, WQ, WR, WT, WU
+WW, WX, WZ, XA, XC, XD, XE, XF, XG, XH, XI, XJ
+XK, XL, XM, XN, XO, XP, XQ, XR, XS, XT, XU, XV
+XW, XX, XY, XZ, YA, YB, YC, YD, YE, YF, YG, YH
+YI, YJ, YK, YL, YM, YN, YO, YP, YQ, YR, YS, YT
+YU, YV, YW, YX, YY, YZ, ZA, ZB, ZC, ZD, ZE, ZF
+ZG, ZH, ZI, ZJ, ZK, ZL, ZM, ZN, ZO, ZP, ZQ, ZR
+ZS, ZT, ZU, ZV, ZW, ZX, ZY, ZZ
+
+After eliminating 300 people
+----------------------------
+AA, AD, AE, AH, AJ, AM, AN, AQ, AS, AV, AW, AZ
+BB, BE, BF, BI, BK, BN, BO, BR, BT, BW, BX, CA
+CC, CF, CG, CJ, CL, CO, CP, CS, CU, CX, CY, DB
+DD, DG, DH, DK, DM, DP, DQ, DT, DV, DY, DZ, EC
+EE, EH, EI, EL, EN, EQ, ER, EU, EW, EZ, FA, FD
+FF, FI, FJ, FM, FO, FR, FS, FV, FX, GA, GB, GE
+GG, GJ, GK, GN, GP, GS, GT, GW, GY, HB, HC, HF
+HH, HK, HL, HO, HQ, HT, HU, HX, HZ, IC, ID, IG
+II, IL, IM, IP, IR, IU, IV, IY, JA, JD, JE, JH
+JJ, JM, JN, JQ, JS, JV, JW, JZ, KB, KE, KF, KI
+KK, KN, KO, KR, KT, KW, KX, LA, LC, LF, LG, LJ
+LL, LO, LP, LS, LU, LX, LY, MB, MD, MG, MH, MK
+MM, MP, MQ, MT, MV, MY, MZ, NB, NC, NE, NF, NH
+NI, NK, NL, NN, NO, NQ, NR, NT, NU, NW, NX, NZ
+OA, OC, OD, OF, OG, OI, OJ, OL, OM, OO, OP, OR
+OS, OU, OV, OX, OY, PA, PB, PD, PE, PG, PH, PJ
+PK, PM, PN, PP, PQ, PS, PT, PV, PW, PY, PZ, QB
+QC, QE, QF, QH, QI, QK, QL, QN, QO, QQ, QR, QT
+QU, QW, QX, QZ, RA, RC, RD, RF, RG, RI, RJ, RL
+RM, RO, RP, RR, RS, RU, RV, RX, RY, SA, SB, SD
+SE, SG, SH, SJ, SK, SM, SN, SP, SQ, SS, ST, SV
+SW, SY, SZ, TB, TC, TE, TF, TH, TI, TK, TL, TN
+TO, TQ, TR, TT, TU, TW, TX, TZ, UA, UC, UD, UF
+UG, UI, UJ, UL, UM, UO, UP, UR, US, UU, UV, UX
+UY, VA, VB, VD, VE, VG, VH, VJ, VK, VM, VN, VP
+VQ, VS, VT, VV, VW, VY, VZ, WB, WC, WE, WF, WH
+WI, WK, WL, WN, WO, WQ, WR, WT, WU, WW, WX, WZ
+XA, XC, XD, XF, XG, XI, XJ, XL, XM, XO, XP, XR
+XS, XU, XV, XX, XY, YA, YB, YD, YE, YG, YH, YJ
+YK, YM, YN, YP, YQ, YS, YT, YV, YW, YY, YZ, ZB
+ZC, ZE, ZF, ZH, ZI, ZK, ZL, ZN, ZO, ZQ, ZR, ZT
+ZU, ZW, ZX, ZZ
+
+After eliminating 400 people
+----------------------------
+AD, AE, AJ, AM, AQ, AS, AW, AZ, BE, BF, BK, BN
+BR, BT, BX, CA, CF, CG, CL, CO, CS, CU, CY, DB
+DG, DH, DM, DP, DT, DV, DZ, EC, EH, EI, EN, EQ
+EU, EW, FA, FD, FI, FJ, FO, FR, FV, FX, GB, GE
+GJ, GK, GN, GP, GS, GT, GW, GY, HB, HC, HF, HH
+HK, HL, HO, HQ, HT, HU, HX, HZ, IC, ID, IG, II
+IL, IM, IP, IR, IU, IV, IY, JA, JD, JE, JH, JJ
+JM, JN, JQ, JS, JV, JW, JZ, KB, KE, KF, KI, KK
+KN, KO, KR, KT, KW, KX, LA, LC, LF, LG, LJ, LL
+LO, LP, LS, LU, LX, LY, MB, MD, MG, MH, MK, MM
+MP, MQ, MT, MV, MY, MZ, NC, NE, NH, NI, NL, NN
+NQ, NR, NU, NW, NZ, OA, OD, OF, OI, OJ, OM, OO
+OR, OS, OV, OX, PA, PB, PE, PG, PJ, PK, PN, PP
+PS, PT, PW, PY, QB, QC, QF, QH, QK, QL, QO, QQ
+QT, QU, QX, QZ, RC, RD, RG, RI, RL, RM, RP, RR
+RU, RV, RY, SA, SD, SE, SH, SJ, SM, SN, SQ, SS
+SV, SW, SZ, TB, TE, TF, TI, TK, TN, TO, TR, TT
+TW, TX, UA, UC, UF, UG, UJ, UL, UO, UP, US, UU
+UX, UY, VB, VD, VG, VH, VK, VM, VP, VQ, VT, VV
+VY, VZ, WC, WE, WH, WI, WL, WN, WQ, WR, WU, WW
+WZ, XA, XD, XF, XI, XJ, XM, XO, XR, XS, XV, XX
+YA, YB, YE, YG, YJ, YK, YN, YP, YS, YT, YW, YY
+ZB, ZC, ZF, ZH, ZK, ZL, ZO, ZQ, ZT, ZU, ZX, ZZ
+
+After eliminating 500 people
+----------------------------
+AD, AE, AM, AQ, AW, AZ, BF, BK, BR, BT, CA, CF
+CL, CO, CU, CY, DG, DH, DP, DT, DZ, EC, EI, EN
+EU, EW, FD, FI, FO, FR, FX, GB, GJ, GK, GS, GW
+HC, HF, HL, HQ, HX, HZ, IG, IL, IR, IU, JA, JE
+JM, JN, JS, JV, JZ, KB, KF, KI, KN, KO, KT, KW
+LA, LC, LG, LJ, LO, LP, LU, LX, MB, MD, MH, MK
+MP, MQ, MV, MY, NC, NE, NI, NL, NQ, NR, NW, NZ
+OD, OF, OJ, OM, OR, OS, OX, PA, PE, PG, PK, PN
+PS, PT, PY, QB, QF, QH, QL, QO, QT, QU, QZ, RC
+RG, RI, RM, RP, RU, RV, SA, SD, SH, SJ, SN, SQ
+SV, SW, TB, TE, TI, TK, TO, TR, TW, TX, UC, UF
+UJ, UL, UP, US, UX, UY, VD, VG, VK, VM, VQ, VT
+VY, VZ, WE, WH, WL, WN, WR, WU, WZ, XA, XF, XI
+XM, XO, XS, XV, YA, YB, YG, YJ, YN, YP, YT, YW
+ZB, ZC, ZH, ZK, ZO, ZQ, ZU, ZX
+
+After eliminating 600 people
+----------------------------
+AE, AW, AZ, BR, CA, CO, CU, DH, DT, EI, EN, FD
+FO, GB, GJ, GW, HF, HX, HZ, IR, JA, JN, JV, KI
+KT, LJ, LO, LX, MD, MP, MQ, NC, NI, NR, NW, OF
+OM, OX, PA, PK, PS, QB, QF, QO, QU, RG, RI, RU
+SA, SJ, SN, SW, TE, TO, TR, UC, UJ, US, UX, VG
+VM, VY, VZ, WL, WR, XA, XF, XO, XV, YG, YJ, YT
+ZB, ZK, ZO, ZX
+
+Eliminations Completed
+After eliminating 675 people
+----------------------------
+QO

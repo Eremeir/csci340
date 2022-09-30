@@ -1,0 +1,17 @@
+push 1
+push 2
+push 3
+pop
+push 4
+push 5
+push 6
+pop
+push 7
+push 8
+END
+push 1/8
+push 3/16
+pop
+push 7/53
+push 9/16
+push 1/64

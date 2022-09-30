@@ -1,0 +1,76 @@
+Initial group of people
+-----------------------
+AA, AB, AC, AD, AE, AF, AG, AH, AI, AJ, AK, AL
+AM, AN, AO, AP, AQ, AR, AS, AT, AU, AV, AW, AX
+AY, AZ, BA, BB, BC, BD, BE, BF, BG, BH, BI, BJ
+BK, BL, BM, BN, BO, BP, BQ, BR, BS, BT, BU, BV
+BW, BX, BY, BZ, CA, CB, CC, CD, CE, CF, CG, CH
+CI, CJ, CK, CL, CM, CN, CO, CP, CQ, CR, CS, CT
+CU, CV, CW, CX, CY, CZ, DA, DB, DC, DD, DE, DF
+DG, DH, DI, DJ, DK, DL, DM, DN, DO, DP, DQ, DR
+DS
+
+After eliminating 11 people
+---------------------------
+AA, AB, AC, AD, AE, AF, AG, AH, AI, AJ, AK, AL
+AM, AN, AO, AP, AS, AT, AU, AV, AX, AY, AZ, BA
+BB, BC, BD, BE, BF, BG, BH, BI, BJ, BK, BL, BM
+BN, BO, BR, BS, BU, BV, BW, BX, BY, BZ, CA, CB
+CC, CD, CE, CF, CG, CH, CI, CJ, CK, CL, CM, CO
+CR, CS, CT, CU, CV, CW, CX, CY, CZ, DA, DB, DC
+DD, DE, DF, DG, DH, DI, DJ, DK, DM, DO, DP, DQ
+DR, DS
+
+After eliminating 22 people
+---------------------------
+AA, AB, AC, AE, AF, AG, AH, AI, AJ, AK, AL, AM
+AN, AP, AS, AT, AU, AX, AY, AZ, BA, BB, BC, BD
+BF, BG, BH, BI, BJ, BK, BL, BM, BN, BO, BR, BU
+BV, BX, BY, BZ, CA, CB, CC, CD, CE, CG, CH, CI
+CJ, CK, CL, CM, CO, CR, CS, CT, CU, CX, CY, CZ
+DA, DB, DC, DD, DE, DF, DH, DI, DJ, DK, DM, DO
+DQ, DR, DS
+
+After eliminating 33 people
+---------------------------
+AA, AB, AC, AE, AG, AH, AI, AJ, AK, AL, AM, AN
+AP, AS, AT, AU, AX, AY, AZ, BB, BF, BG, BH, BJ
+BK, BL, BM, BN, BO, BR, BU, BV, BX, BY, BZ, CA
+CB, CC, CD, CE, CI, CJ, CK, CM, CO, CR, CS, CT
+CU, CX, CY, CZ, DA, DB, DC, DD, DE, DF, DH, DI
+DJ, DK, DQ, DS
+
+After eliminating 44 people
+---------------------------
+AA, AC, AE, AG, AH, AJ, AL, AM, AN, AP, AS, AT
+AU, AX, AY, BB, BF, BG, BH, BJ, BL, BM, BN, BO
+BR, BU, BV, BZ, CA, CB, CC, CD, CE, CI, CJ, CM
+CR, CS, CT, CX, CY, CZ, DA, DB, DC, DD, DE, DH
+DI, DJ, DK, DQ, DS
+
+After eliminating 55 people
+---------------------------
+AA, AC, AE, AG, AH, AJ, AL, AS, AT, AU, AY, BB
+BF, BG, BH, BL, BM, BN, BO, BR, BU, BV, BZ, CA
+CB, CC, CD, CE, CM, CT, CX, CY, CZ, DB, DC, DD
+DE, DH, DI, DK, DQ, DS
+
+After eliminating 66 people
+---------------------------
+AA, AE, AG, AJ, AL, AS, AT, AY, BB, BF, BG, BL
+BN, BR, BU, BZ, CA, CB, CC, CD, CE, CM, CY, DB
+DC, DD, DE, DH, DK, DQ, DS
+
+After eliminating 77 people
+---------------------------
+AG, AT, AY, BB, BG, BL, BN, BR, BZ, CA, CB, CC
+CD, CM, CY, DB, DC, DD, DE, DK
+
+After eliminating 88 people
+---------------------------
+BG, BL, CB, CC, CM, CY, DB, DD, DK
+
+Eliminations Completed
+After eliminating 96 people
+---------------------------
+DK

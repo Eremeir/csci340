@@ -1,0 +1,26 @@
+Initial group of people
+-----------------------
+AA, AB, AC, AD, AE, AF, AG, AH, AI, AJ, AK, AL
+AM, AN, AO, AP, AQ, AR, AS, AT, AU, AV, AW, AX
+AY, AZ, BA, BB, BC, BD, BE, BF, BG, BH, BI, BJ
+BK, BL, BM, BN, BO
+
+After eliminating 13 people
+---------------------------
+AA, AB, AD, AE, AG, AH, AJ, AK, AM, AN, AP, AQ
+AS, AT, AV, AW, AY, AZ, BB, BC, BE, BF, BH, BI
+BK, BL, BN, BO
+
+After eliminating 26 people
+---------------------------
+AB, AD, AH, AK, AP, AQ, AV, AY, AZ, BC, BE, BH
+BI, BL, BN
+
+After eliminating 39 people
+---------------------------
+AP, BE
+
+Eliminations Completed
+After eliminating 40 people
+---------------------------
+BE

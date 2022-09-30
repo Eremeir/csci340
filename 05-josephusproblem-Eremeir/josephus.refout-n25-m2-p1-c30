@@ -1,0 +1,104 @@
+Initial group of people
+-----------------------
+A, B, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y
+
+After eliminating 1 people
+--------------------------
+A, C, D, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y
+
+After eliminating 2 people
+--------------------------
+A, C, E, F, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y
+
+After eliminating 3 people
+--------------------------
+A, C, E, G, H, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y
+
+After eliminating 4 people
+--------------------------
+A, C, E, G, I, J, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y
+
+After eliminating 5 people
+--------------------------
+A, C, E, G, I, K, L, M, N, O, P, Q, R, S, T, U, V, W, X, Y
+
+After eliminating 6 people
+--------------------------
+A, C, E, G, I, K, M, N, O, P, Q, R, S, T, U, V, W, X, Y
+
+After eliminating 7 people
+--------------------------
+A, C, E, G, I, K, M, O, P, Q, R, S, T, U, V, W, X, Y
+
+After eliminating 8 people
+--------------------------
+A, C, E, G, I, K, M, O, Q, R, S, T, U, V, W, X, Y
+
+After eliminating 9 people
+--------------------------
+A, C, E, G, I, K, M, O, Q, S, T, U, V, W, X, Y
+
+After eliminating 10 people
+---------------------------
+A, C, E, G, I, K, M, O, Q, S, U, V, W, X, Y
+
+After eliminating 11 people
+---------------------------
+A, C, E, G, I, K, M, O, Q, S, U, W, X, Y
+
+After eliminating 12 people
+---------------------------
+A, C, E, G, I, K, M, O, Q, S, U, W, Y
+
+After eliminating 13 people
+---------------------------
+C, E, G, I, K, M, O, Q, S, U, W, Y
+
+After eliminating 14 people
+---------------------------
+C, G, I, K, M, O, Q, S, U, W, Y
+
+After eliminating 15 people
+---------------------------
+C, G, K, M, O, Q, S, U, W, Y
+
+After eliminating 16 people
+---------------------------
+C, G, K, O, Q, S, U, W, Y
+
+After eliminating 17 people
+---------------------------
+C, G, K, O, S, U, W, Y
+
+After eliminating 18 people
+---------------------------
+C, G, K, O, S, W, Y
+
+After eliminating 19 people
+---------------------------
+C, G, K, O, S, W
+
+After eliminating 20 people
+---------------------------
+C, K, O, S, W
+
+After eliminating 21 people
+---------------------------
+C, K, S, W
+
+After eliminating 22 people
+---------------------------
+C, K, S
+
+After eliminating 23 people
+---------------------------
+C, S
+
+After eliminating 24 people
+---------------------------
+S
+
+Eliminations Completed
+After eliminating 24 people
+---------------------------
+S

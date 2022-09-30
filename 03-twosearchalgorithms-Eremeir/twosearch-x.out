@@ -1,0 +1,10 @@
+./twosearch: option requires an argument -- 'x'
+Usage: ./twosearch [-l rand_low] [-h rand_high] [-a a_size] [-b b_size] [-x a_seed] [-y b_seed] [-c print_cols] [-w col_width]
+    rand_low   = rand() low bound (default=1)
+    rand_high  = rand() high bound (default=1000)
+    a_size     = size of vector A (default=200)
+    b_size     = size of vector B (default=100)
+    a_seed     = random seed for vector A (default=1)
+    b_seed     = random seed for vector B (default=3)
+    print_cols = number of colums per line (default=16)
+    col_width  = printed column value width (default=4)

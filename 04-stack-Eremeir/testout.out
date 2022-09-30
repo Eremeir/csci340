@@ -1,0 +1,28 @@
+**** testing Stack<int> *************************************
+ operation   size    top
+------------ ---- -------
+ push     1     1       1
+ push     2     2       2
+ push     3     3       3
+  pop           2       2
+ push     4     3       4
+ push     5     4       5
+ push     6     5       6
+  pop           4       5
+ push     7     5       7
+ push     8     6       8
+END
+End   -- size of Stack is: 6
+Empty -- size of Stack is: 0
+
+**** testing Stack<Rational> ********************************
+ operation   size    top
+------------ ---- -------
+ push   1/8     1     1/8
+ push  3/16     2    3/16
+  pop           1     1/8
+ push  7/53     2    7/53
+ push  9/16     3    9/16
+ push  1/64     4    1/64
+End   -- size of Stack is: 4
+Empty -- size of Stack is: 0
